@@ -1,4 +1,4 @@
-##👋 Hey there! I'm basechainnetwork## 🚀 Full-Stack Developer | Open Source Contributor | Freelancer
+##👋 Hey there! I'm Snowopogi## 🚀 Full-Stack Developer | Open Source Contributor | Freelancer
 
 💡 Passionate about building scalable web applications, automating workflows, and contributing to open-source projects. I specialize in creating seamless user experiences and robust backend systems.
 
